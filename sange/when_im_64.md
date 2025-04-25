@@ -34,6 +34,8 @@ Stating point of view
 Indicate precisely what you mean to say
 Yours sincerely, wasting away
 
+[⬅️ aftur til forsíðu](../index.md)
+
 Give me your answer, fill in a form
 Mine for evermore
 Will you still need me, will you still feed me
