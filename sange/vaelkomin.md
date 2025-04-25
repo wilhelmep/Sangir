@@ -23,8 +23,6 @@ og veitslu góða vit fáa.
 ---
 *Yrktur av Marius A. Rubeksen í 1978 til dansiveitslu hjá Rhodu Rubeksen*
 
-[⬅️ Tilbage til forsiden](../index.md)
-
     
 [⬅️ aftur til forsíðu](../index.md)
 
