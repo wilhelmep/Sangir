@@ -1,4 +1,4 @@
-Eftir 1001
+Eftir 1001 nátt
 
 Eg vil halda fast um teg, eg vil kína tær eymt.
 Eg man ongantíð skilja, tað sum mær er hent.
