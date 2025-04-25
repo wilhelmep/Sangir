@@ -24,5 +24,5 @@
     Hvussu herligt í Valinum tað er!
     ---
 
-[⬅️ Tilbage til forsiden](../index.md)
+[⬅️ aftur til forsíðu](../index.md)
 
