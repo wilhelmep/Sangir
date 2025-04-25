@@ -1,4 +1,4 @@
-    JEG ER SIGØJNER
+    # JEG ER SIGØJNER
     Solen er borte, min dag er forbi,
     skumringen øver sit trylleri.
     Syng, lille pige, om elskov og had,
