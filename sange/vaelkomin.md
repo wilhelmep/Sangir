@@ -1,4 +1,4 @@
-    Vælkomin øll
+  # Vælkomin øll
     
     Vælkomin øll tit, so veitsluklødd,
     vælkomin hvør ein genta – drongur,
