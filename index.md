@@ -1,4 +1,6 @@
 # 🎶 Útvaldir sangir
+![Festlig stemning](https://example.com/fest-billede.jpg)
+
 
 Innihaldsyvirlit:
 
