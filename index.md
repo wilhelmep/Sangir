@@ -10,4 +10,6 @@
 6. [Sjeikurin](sange/sjeikurin.md)
 6. [Leygarkvøld í Havn](sange/leygarkvold.md)
 7. [Eitt sunnukvøld í plantasjuni](sange/sunnukvold.md)
+8. [Sára eitur genta mín](sange/sara.md)
+
 
