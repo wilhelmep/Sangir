@@ -1,4 +1,4 @@
-# 🎶 Útvaldir sngir
+# 🎶 Útvaldir sangir
 
 Velkommen til sanghæftet! Tryk på en sang for at læse teksten:
 
