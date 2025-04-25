@@ -1,6 +1,6 @@
 # 🎶 Útvaldir sangir
 
-Velkommen til sanghæftet! Tryk på en sang for at læse teksten:
+Innihaldsyvirlit:
 
 - [Vælkomin øll](sange/vaelkomin.md)
 - [Jeg er sigøjner](sange/15_jeg_er_sigojner.md)
