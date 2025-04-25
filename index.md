@@ -1,8 +1,8 @@
 # 🎶 Sanghefti
 
-## 📜 Sangir 
-![image](https://github.com/user-attachments/assets/3e13f30e-27ee-404b-9a37-531211bf9c43)
+# ![image](https://github.com/user-attachments/assets/3e13f30e-27ee-404b-9a37-531211bf9c43)
 
+## 📜 Sangir 
 
 1. [Vælkomin øll](sange/vaelkomin.md)  
 2. [When I'm Sixty-Four](sange/when_im_64.md)  
