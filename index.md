@@ -9,5 +9,5 @@
 5. [Jeg er sigøjner](sange/15_jeg_er_sigojner.md)
 6. [Sjeikurin](sange/sjeikurin.md)
 6. [Leygarkvøld í Havn](sange/leygarkvold.md)
-7. 
+7. Eitt sunnukvøld í plantasjuni
 
