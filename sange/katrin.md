@@ -35,3 +35,4 @@ minnist tað, sum Sørin segði síðsta siglingsdag:
 ”Katrin mín, nú fari eg, tú bíðar eftir mær.”  
 ”Ja, ja, góði Sørin, tú, eg bíði eftir tær.”  
 
+[⬅️ aftur til forsíðu](../index.md)
