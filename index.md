@@ -13,7 +13,7 @@
 8. [Sára eitur genta mín](sange/sara.md)
 9. [Kom og dansa](sange/kom_og_dansa.md)
 10.  [Så længe jeg lever](sange/sa-laenge-jeg-lever.md)
-11.  [Einki er sum summarkvøld við strendur](sange/einki-er-sum-summarkvold.md
+11.  [Einki er sum summarkvøld við strendur](sange/einki-er-sum-summarkvold.md)
 12.  [Føroyingar](sange/foroyingar.md)
 
 
