@@ -5,7 +5,7 @@ Her eru sangir til gleði, felagssang og góðar løtur.
 
 👇 Trýst her fyri at síggja alt sanghæftið:
 
-👉 [Sí alt sanghæftið](haefte.md)
+👉 [Sí alt sanghæftið](hefti.md)
 
 ---
 
