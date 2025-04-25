@@ -15,7 +15,7 @@
 10.  [Så længe jeg lever](sange/sa-laenge-jeg-lever.md)
 11.  [Einki er sum summarkvøld við strendur](sange/einki-er-sum-summarkvold.md)
 12.  [Føroyingar](sange/foroyingar.md)
-13.  [kalli katt](kalli-katt.md)
+13.  [kalli katt](sange/kalli-katt.md)
 
 
 
