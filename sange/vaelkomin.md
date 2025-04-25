@@ -20,3 +20,6 @@
 
     (Marius A. Rubeksen yrkti í 1978 til
     dansiveitslu hjá Rhodu Rubeksen)
+    
+[⬅️ aftur til forsíðu](../index.md)
+
