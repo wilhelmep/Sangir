@@ -1,13 +1,7 @@
-# 🎶 Sanghætið
+# 🎶 Sanghæti
 
-**Vælkomin til okkara veitslu-sanghæfte!**  
-Her eru sangir til gleði, felagssang og góðar løtur.
+## 📜 Sangir
 
-👇 Trýst her fyri at síggja alt sanghæftið:
-
-👉 [Sí alt sanghæftið](hefti.md)
-
----
-
-📱 Síðan er gjørd til at rigga væl á telefon og tablet  
-🎤 Lag tína rødd hoyrast – og njót løtuna!
+- [Vælkomin øll](sange/vaelkomin-oell.md)  
+- [When I'm Sixty-Four](sange/when-im-sixty-four.md)  
+- [Katrin býr á strondini](sange/katrin-byr-a-strondini.md)
