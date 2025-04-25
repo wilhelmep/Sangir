@@ -42,3 +42,5 @@ vit gifta okkum inn;
 tann fyrst í litli “sprellibassin”,  
 hann skal eita Finn!  
 :,: O, Sára! O, Sára! :,:
+
+[⬅️ aftur til forsíðu](../index.md)
