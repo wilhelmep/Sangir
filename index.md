@@ -12,7 +12,7 @@
 7. [Eitt sunnukvøld í plantasjuni](sange/sunnukvold.md)
 8. [Sára eitur genta mín](sange/sara.md)
 9. [Kom og dansa](sange/kom_og_dansa.md)
-10.  [Kom og dansa](sange/sa-laenge-jeg-lever.md)
+10.  [Så længe jeg lever](sange/sa-laenge-jeg-lever.md)
 
 
 
