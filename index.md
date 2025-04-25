@@ -1,4 +1,4 @@
-# 🎶 Sanghæti
+# 🎶 Sanghefti
 
 ## 📜 Sangir
 
