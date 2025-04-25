@@ -8,4 +8,6 @@
 4. [Eftir 1001 nátt](sange/eftir_1001_natt.md)
 5. [Jeg er sigøjner](sange/15_jeg_er_sigojner.md)
 6. [Sjeikurin](sange/sjeikurin.md)
+6. [Leygarkvøld í Havn](leygarkvold.md)
+7. 
 
