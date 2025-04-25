@@ -1,5 +1,13 @@
 # 🎶 Útvaldir sangir
-![Festlig stemning](https://example.com/fest-billede.jpg)
+
+
+Velkomin til okkara sanghæfte!  
+Her finnur tú góðar og hugnaligar sangir til felagssang og veitslu.  
+Trýst á ein sang fyri at lesa hann:
+
+---
+
+## 📜 Sangir
 
 
 Innihaldsyvirlit:
