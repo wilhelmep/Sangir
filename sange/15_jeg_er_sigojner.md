@@ -22,3 +22,7 @@
     Uppi í Valinum mín vøgga stóð.
     Havi je’ droymt undir sóleyganum,
     Hvussu herligt í Valinum tað er!
+    ---
+
+[⬅️ Tilbage til forsiden](../index.md)
+
