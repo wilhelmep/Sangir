@@ -25,6 +25,7 @@
 18. [Molly Malone](sange/molly.md)
 19.  [Niclas hjá Pena](sange/niclas_hja_pena.md)
 20.  [Tvær fraðrar](sange/tvar_fjadrar.md)
+21.  [Tfagra blóma](sange/fagra_bloma.md)
  
 
 
