@@ -12,7 +12,7 @@ undir hennara jarnharðu hond.
 
 Fyrstu ferð, ið eg kendi,  
 at hon ein gívur var,  
-var brúdleypsdagin hon brendi 
+var brúdleypsdagin hon brendi   
 rúsdrekkakortið hjá mær.  
 Tá skuldi eg aldri havt talað,  
 tí klovan hon langaði mær  
