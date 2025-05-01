@@ -19,6 +19,9 @@
 12.  [Føroyingar](sange/foroyingar.md)
 13.  [kalli katt](sange/kalli-katt.md)
 14.  [Rasmus](sange/rasmus.md)
+15.  [Aldan](sange/aldan.md)
+[⬅️ Tilbage til forsiden](../index.md)
+
 
 
 
