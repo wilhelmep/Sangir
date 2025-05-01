@@ -25,4 +25,4 @@ mín hestur, mín saðil og eg.
 
 ---
 
-[⬅️ Tilbage til forsiden](../index.md)
+[⬅️ Aftur til forsíðu](../index.md)
