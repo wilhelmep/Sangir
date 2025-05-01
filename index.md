@@ -27,6 +27,8 @@
 20.  [Tvær fraðrar](sange/tvar_fjadrar.md)
 21.  [Fagra blóma](sange/fagra_bloma.md)
 22. [Eg siti so eina](sange/siti_so_eina.md)
+23. [Tipperary](sange/tipperary.md)
+ 
  
 
 
