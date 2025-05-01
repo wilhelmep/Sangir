@@ -20,9 +20,7 @@
 13.  [kalli katt](sange/kalli-katt.md)
 14.  [Rasmus](sange/rasmus.md)
 15.  [Aldan](sange/aldan.md)
-16.  
-[⬅️ Tilbage til forsiden](../index.md)
-
+16.   
 
 
 
