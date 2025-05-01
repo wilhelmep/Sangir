@@ -22,7 +22,8 @@
 15.  [Aldan](sange/aldan.md)
 16.  [Fiskepigens sang](sange/fiskepigens_sang.md)
 17. [Vandringsmænd](sange/vandringsmaend.md)
-18.  [Molly Malone](sange/molly.md) 
+18.  [Molly Malone](sange/molly.md)
+19.   [Niclas hjá Pena](sange/niclas_hja_pena.md) 
  
 
 
