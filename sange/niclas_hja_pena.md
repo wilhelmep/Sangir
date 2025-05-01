@@ -12,7 +12,8 @@ undir hennara jarnharðu hond.
 
 Fyrstu ferð, ið eg kendi,  
 at hon ein gívur var,  
-var brúdleypsdagin: Hon brendi rúsdrekkakortið hjá mær.  
+var brúdleypsdagin hon brendi 
+rúsdrekkakortið hjá mær.  
 Tá skuldi eg aldri havt talað,  
 tí klovan hon langaði mær  
 í skallan, so alt fór at mala –  
@@ -30,11 +31,10 @@ Ja, elskaða Marin hjá mær.
 Um Marilyn Monroe segði:  
 "Niclas, eg eri so køld,"  
 hugtungur svarað eg hevði:  
-
 "Eg tori ikki í kvøld.  
 So høgt eg enn man seta  
 viðgitna krovið á tær;  
 eg noyðist tó hægri at meta  
 Marin Malenu hjá mær".
 
-[⬅️ Tilbage til forsiden](../index.md)
+[⬅️ Aftur til forsíðu](../index.md)
