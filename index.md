@@ -23,7 +23,7 @@
 17.  [Fagra blóma](sange/fagra_bloma.md)
 18. [Eg siti so eina](sange/siti_so_eina.md)
 19. [Tipperary](sange/tipperary.md)
-20. [Sangur til frælsið](sange/Sangur_til_fraelsi.md)
+20. [Sangur til frælsi](sange/Sangur_til_fraelsi.md)
  
  
 
