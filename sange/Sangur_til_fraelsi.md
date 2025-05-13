@@ -1,4 +1,4 @@
-# 20 Sangur til frælsið
+# 20 Sangur til frælsi
 
 Tú ert tað fagrasta eg veit  
 Tú ert tað dýrasta á foldum  
