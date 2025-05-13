@@ -23,3 +23,7 @@ rættvísi er tín bróðir
 friðurin tín systir  
 stríðið er tín faðir  
 framtíðin tín ábyrgd.
+
+---
+
+[⬅️ Aftur til forsíðu](../index.md)
