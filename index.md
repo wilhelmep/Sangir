@@ -25,7 +25,7 @@
 18. [Eg siti so eina](sange/siti_so_eina.md)
 19. [Tipperary](sange/tipperary.md)
 20. [Sangur til frælsi](sange/Sangur_til_fraelsi.md)
-21. ![Hugnaligar myndir(sange/bagside.socx)
+21. ![Hugnaligar myndir(sange/bagside.docx)
 
  
  
