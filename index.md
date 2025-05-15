@@ -1,3 +1,4 @@
+![Forside](sange/forsída.jpg)
 # 🎶 Sanghefti
 
 # ![image](https://github.com/user-attachments/assets/3e13f30e-27ee-404b-9a37-531211bf9c43)
