@@ -26,7 +26,9 @@
 20. [Sangur til frælsi](sange/Sangur_til_fraelsi.md)
 21. [GÓÐALÍV](sange/Gode_liv.md)
 
-[📄 Hugnaligar myndir (bagside)](sange/bagside.pdf)
+[📄 Hugnaligar myndir ](sange/bagside.pdf)  
+[⬅️ Aftur til forsíðu](Index.md)
+
 
 
  
