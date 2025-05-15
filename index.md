@@ -25,8 +25,8 @@
 19. [Tipperary](sange/tipperary.md)
 20. [Sangur til frælsi](sange/Sangur_til_fraelsi.md)
 21. [GÓÐALÍV](sange/Gode_liv.md)
-22. 
-![hUGNALIGAR MYNDIR](sange/bagside.pdf)
+
+![Hugnaligar myndir](sange/bagside.pdf)
 
  
  
